@@ -1,0 +1,40 @@
+---
+title: "Yohei Wakamaki's personal homepage"
+format: html
+toc: true
+number-sections: true
+bibiliography: references.bib
+reference-location: margin
+# Preview cmd+shift+K
+---
+This is personal hobby website of **Yohei** **Wakamaki**. I leave my thoughs and 
+
+I like
+
+-   Sushi
+-   Ra-men
+-   Cofee
+- $E = mc^2$
+
+::: {.callout-note}
+note‚±‚ñ‚É‚¿‚Í
+:::
+
+::: {.callout-tip collapse="true" title="ãƒ’ãƒ³ãƒ?" appearance="minimal"}
+tip
+:::
+
+::: {.callout-important appearance="simple" collapse="true"}
+## Pay Attention
+
+important
+:::
+
+::: {.callout-caution}
+caution
+:::
+
+
+::: {.callout-warning}
+warning
+:::

@@ -1,0 +1,17 @@
+project: 
+  type: website
+
+website:
+  title: "Yohei Wakamaki's homepage"
+  navbar:
+    background: primary
+    search: true
+    left: 
+      - text: "Home"
+        href: index.qmd
+      - text: Maths
+        href: Maths.qmd
+
+format:
+  html:
+    theme: Sketchy
